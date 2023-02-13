@@ -1,0 +1,3 @@
+id,location,description,rent,isListed,occupier,minRating,rating,
+1,Sai Gon,ewrewr,32,0,0,3.000000,0.000000,
+2,Sai Gon,quang,123,1,1,-5.000000,0.000001,

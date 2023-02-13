@@ -1,0 +1,3 @@
+C:/Users/LEGION/CLionProjects/GroupAsm/cmake-build-debug/CMakeFiles/GroupAsm.dir
+C:/Users/LEGION/CLionProjects/GroupAsm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/CLionProjects/GroupAsm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

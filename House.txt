@@ -1,0 +1,1 @@
+id,location,description,rent,isListed,occupier,minRating,rating,
